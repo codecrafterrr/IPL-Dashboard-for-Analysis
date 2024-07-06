@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a136b288.css",
+    "main.js": "/static/js/main.bd8a5429.js",
+    "static/js/453.8ab44547.chunk.js": "/static/js/453.8ab44547.chunk.js",
+    "static/media/csk.jpg": "/static/media/csk.3bfbc92d437c00f7b0cd.jpg",
+    "static/media/srh.jpg": "/static/media/srh.f0566932bc6fba8cc53f.jpg",
+    "static/media/mi.jpg": "/static/media/mi.fa6acd7336fc41cc04ff.jpg",
+    "static/media/rpsj.jpg": "/static/media/rpsj.9707c919b1f79ba1ae00.jpg",
+    "static/media/kkr.jpg": "/static/media/kkr.310a8a6bbd3c7ce6639e.jpg",
+    "static/media/gt.jpg": "/static/media/gt.1b0d3a0eba78b1a742e1.jpg",
+    "static/media/lsg.png": "/static/media/lsg.3e79b375d538297ea4d0.png",
+    "static/media/kochi.jpeg": "/static/media/kochi.488c33e8d17d2e414e1e.jpeg",
+    "static/media/kxip.jpeg": "/static/media/kxip.1300ea3f4e398587b1a0.jpeg",
+    "static/media/cricket.png": "/static/media/cricket.88c979b446942d6ee007.png",
+    "static/media/gujaratlions.jpeg": "/static/media/gujaratlions.9323eefc7b9d95a2abc1.jpeg",
+    "static/media/rr.jpeg": "/static/media/rr.98a1c181781412d3357a.jpeg",
+    "static/media/punjabkings.jpg": "/static/media/punjabkings.c60b955c140d53ab6b7f.jpg",
+    "static/media/pw.jpeg": "/static/media/pw.418f252811dcee955a40.jpeg",
+    "static/media/rcb.jpeg": "/static/media/rcb.2be248c7c4bd17d997e3.jpeg",
+    "static/media/delhicapitals.jpeg": "/static/media/delhicapitals.3c90cb2f6bb0faf75252.jpeg",
+    "static/media/DeccanChargers.jpeg": "/static/media/DeccanChargers.8218a94bc3c809264783.jpeg",
+    "index.html": "/index.html",
+    "main.a136b288.css.map": "/static/css/main.a136b288.css.map",
+    "main.bd8a5429.js.map": "/static/js/main.bd8a5429.js.map",
+    "453.8ab44547.chunk.js.map": "/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a136b288.css",
+    "static/js/main.bd8a5429.js"
+  ]
+}

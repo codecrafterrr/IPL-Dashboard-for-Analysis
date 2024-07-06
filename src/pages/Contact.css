@@ -1,0 +1,24 @@
+.bg-gradien{
+    box-shadow: 0px 1px 4px 3px #f9a8a8;
+    background: linear-gradient(to right, #cb5151, #5e1863);
+    transition: transform 0.3s ease;
+}
+
+.bg-gradien:hover{
+    transform: scale(1.04);
+    box-shadow: 0px 1px 4px 3px #f9a8a8;
+    background: linear-gradient(to right, #cb5151, #5e1863);
+}
+
+.bg-text{
+    box-shadow: 0px 1px 4px 3px #f9a8a8;
+    background: #de983b;
+    transition: transform 0.3s ease;
+    display: flex;
+    padding-top: 1%;
+}
+
+.bg-text:hover{
+    transform: scale(1.02);
+    box-shadow: 0px 1px 4px 3px #f9a8a8;
+}

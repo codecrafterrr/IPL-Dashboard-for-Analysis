@@ -1,0 +1,70 @@
+.App {
+  padding: 20px;
+  text-align: left;
+}
+
+.won-card {
+  background-color: #23fb88;
+  padding: 2% 4%;
+  border-radius: 32px;
+  transition: transform 0.3s ease;
+  box-shadow: 0px 1px 53px 10px #9a3c3c;
+}
+
+.lost-card {
+  background-color: #c33851;
+  padding: 2% 4%;
+  border-radius: 32px;
+  transition: transform 0.3s ease;
+  box-shadow: 0px 1px 53px 10px #9a3c3c;
+}
+
+.lost-card:hover{
+  box-shadow: 0px 1px 33px 6px #9a3c3c;
+  transform: scale(1.03);
+}
+
+.won-card:hover{
+  box-shadow: 0px 1px 53px 10px #9a3c3c;
+  transform: scale(1.03);
+}
+
+
+/* .App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */

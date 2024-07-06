@@ -1,0 +1,27 @@
+.HomePage {
+    .app-name {
+        font-size: 2rem;
+        margin: 30px auto;
+        color: #393030;
+        margin-left: 2%;
+    }
+    .team-grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-column-gap: 20px;
+        grid-row-gap: 20px;
+    }
+
+    @media screen and (min-width: 768px) and (max-width: 1024px) {
+        .team-grid {
+            grid-template-columns: 1fr 1fr; /* 2 columns */
+        }
+    }
+    
+    /* For mobile devices (up to 767px) */
+    @media screen and (max-width: 767px) {
+        .team-grid {
+            grid-template-columns: 1fr; /* 1 column */
+        }
+    }
+}

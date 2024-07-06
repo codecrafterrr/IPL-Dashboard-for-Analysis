@@ -1,0 +1,36 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;600&display=swap'); */
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: cursive;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+body {
+    font-family: 'Rubik', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    /* background-color: #282c34; */
+    
+    background: #ca4f4f;
+    background: -webkit-linear-gradient(to right, #cb5151, #5e1963);
+    background: linear-gradient(to right, #cb5151, #5e1863);
+
+    /* background: #c0392b;  
+    background: -webkit-linear-gradient(to right, #8e44ad, #c0392b);  
+    background: linear-gradient(to right, #8e44ad, #c0392b);  */
+
+    color: rgb(74, 72, 72);
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+a {
+    color: #3a2f2f;
+}

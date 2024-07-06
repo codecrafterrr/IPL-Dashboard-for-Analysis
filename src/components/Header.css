@@ -1,0 +1,21 @@
+.text-color {
+    font-size: 16px;
+    transition: transform 0.3s ease;
+}
+
+.text-color:hover {
+    transform: scale(1.29);
+}
+
+
+.text-color {
+    color: #302828;
+    cursor: pointer;
+    font-size: 17px;
+}
+
+.text-head {
+    color: #4bf7bd;
+    text-shadow: 0px 0px 7px #4bf7bd;
+
+}

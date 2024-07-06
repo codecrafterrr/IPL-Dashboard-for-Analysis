@@ -1,0 +1,26 @@
+.MatchPage {
+    display: grid;
+    grid-template-columns: 1fr 5fr;
+    grid-column-gap: 20px;
+
+    .year-selector>h2{
+        justify-self: end;
+        padding: 20px;
+        font-size: large;
+        font-weight: bold;
+    }
+
+    .year-selector>div{
+        padding: 20px;
+        display: flex;
+        place-content: center;
+    }
+
+    .page-heading {
+        margin: 20px auto;
+        font-size: large;
+        font-weight: bold;
+        margin-bottom: 6%;
+    }
+}
+ 

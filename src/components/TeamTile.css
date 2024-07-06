@@ -1,0 +1,45 @@
+.TeamTile {
+    color: black;
+    height: 170px;
+    text-align: center;
+    border-radius: 30px;
+    box-shadow: 0px 1px 20px 3px #837d84;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5%;
+    width: 90%;
+    transition: transform 0.3s ease;
+    font-weight: 500;
+    font-size: 17px;
+    background: #8c42a9;
+
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    opacity: 0.8;
+}
+
+
+
+.TeamTile:hover {
+    transform: scale(1.09);
+    box-shadow: -1px 0px 20px 7px #9a3c3c;
+    opacity: 1;
+}
+
+/* For tablets (768px to 1024px) */
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+    .TeamTile {
+        width: 45%; /* Display 2 tiles per row */
+        margin: 2.5%; /* Adjust margin for spacing */
+    }
+}
+
+/* For mobile devices (up to 767px) */
+@media screen and (max-width: 767px) {
+    .TeamTile {
+        width: 90%; /* Display 1 tile per row */
+        margin: 5%; /* Adjust margin for spacing */
+    }
+}

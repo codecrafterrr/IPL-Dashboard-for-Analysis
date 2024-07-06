@@ -1,0 +1,37 @@
+.MatchDetailCard {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 10px;
+    margin-bottom: 20px;;
+
+
+    .match-date, .match-venue, .match-result {
+        margin-top: 10px;
+        font-size: 15px;
+    }
+
+    .additional-detail {
+        text-align: right;
+        & > p {
+            margin-bottom: 20px;
+        }
+
+    }
+    
+    .additional-detail {
+        text-align: right;
+        & > h3 {
+            font-size: 15px;
+        }
+
+    }
+
+    
+}
+
+.otherteam>a{
+    color:aqua !important;
+    color: #168584 !important;
+    font-size: larger;
+    font-weight: bolder;
+}
