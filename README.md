@@ -11,6 +11,8 @@ Following are the technologies used
 - HSQL DB
 - Java Persistence API
 - Repositories and JPQL
+
+  
 ![Spring Boot Spring Batch Java Persistence API, Repositories and JPQL HSQL DB React JS AWS BeanStalk](https://github.com/codecrafterrr/IPL-Dashboard-for-Analysis/assets/122688766/744f6f20-8571-4f17-96b6-9da4b9fbc017)
 
 
@@ -26,7 +28,7 @@ Following are the technologies used
 
 
 
-##Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
