@@ -15,7 +15,9 @@ Following are the technologies used
   
 ![Spring Boot Spring Batch Java Persistence API, Repositories and JPQL HSQL DB React JS AWS BeanStalk](https://github.com/codecrafterrr/IPL-Dashboard-for-Analysis/assets/122688766/744f6f20-8571-4f17-96b6-9da4b9fbc017)
 
+![Screenshot 2024-07-20 121838](https://github.com/user-attachments/assets/a9c5295c-3904-47b5-a667-7eb5f30504cb)
 
+watch the working here
 
 
 
