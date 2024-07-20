@@ -18,6 +18,8 @@ Following are the technologies used
 ![Screenshot 2024-07-20 121838](https://github.com/user-attachments/assets/a9c5295c-3904-47b5-a667-7eb5f30504cb)
 
 watch the working here
+https://github.com/user-attachments/assets/d2f9f90d-4457-4c95-9f1b-0ce76b418bb9
+
 
 
 
